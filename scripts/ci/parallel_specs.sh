@@ -2,4 +2,4 @@
 
 set -eu
 
-bundle exec rake knapsack:rspec --color
+bundle exec rake knapsack:rspec[--options --color]
