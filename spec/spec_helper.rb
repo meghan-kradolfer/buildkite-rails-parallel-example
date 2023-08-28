@@ -6,7 +6,7 @@ Knapsack::Adapters::RSpecAdapter.bind
 
 Buildkite::TestCollector.configure(
   hook: :rspec,
-  token: "3PAFxrwzQH9ddxqBLLJe8ocB",
+  token: "oeHxhhEe42DooXpDvsegJJKo",
   url: "http://analytics-api.buildkite.localhost/v1/uploads"
 )
 
